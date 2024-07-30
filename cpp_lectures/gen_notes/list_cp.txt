@@ -1,0 +1,58 @@
+1. C/C++
+1.1 Konst. Vladimirpov + Mezherin quick and nessesary rewatch 
+1.2 template matrix and vector realisation 
+*problems: basics, templates, arcitecture
+
+2. Programming theory
+2.1 formal languages
+2.2 automat, instruction pipelining
+
+3. Web
+3.1 researching
+
+4. Calculating
+4. researching, see->10.
+
+5.Linux/OS
+5.1. write your own OS / os.dev
+5.2 what is fylesystem
+
+6.Application architecture 
+6.1 
+
+7. ML, NN
+
+8. Build Systems
+8.1 Make, CMake
+
+9. Testing
+9. researching, how to write end-to-end tests
+
+10. Computer graphics / GPU calculations
+10. Vulkan API beginner tutorual
+
+11. Math
+11.1 Linear Algebra
+11.2 Probability theory
+11.3 Olympic problems of math, inf. tecnology
+
+
+12. Pers.
+
+My Agile
+
+Agile list for tasks(need to rename in respect agile terms):
+1. C/C++
+	Create a file-server with MiniFS filysystem
+
+Literature:
+1. ...
+
+
+*Engineering/Math
+	YouTube "Christofer Lum"
+
+
+
+
+
