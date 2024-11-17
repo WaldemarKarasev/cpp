@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/pingvinus/prog/cpp/cmake_playground/build",
-  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/CMAKE_PLAYGROUND.dir/main.cpp.o -c /home/pingvinus/prog/cpp/cmake_playground/main.cpp",
-  "file": "/home/pingvinus/prog/cpp/cmake_playground/main.cpp"
-}
-]

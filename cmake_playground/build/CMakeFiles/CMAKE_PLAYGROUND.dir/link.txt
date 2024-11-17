@@ -1,1 +1,0 @@
-/usr/bin/clang++-14 -g -rdynamic CMakeFiles/CMAKE_PLAYGROUND.dir/main.cpp.o -o CMAKE_PLAYGROUND 

@@ -1,5 +1,0 @@
-/home/pingvinus/prog/cpp/cmake_playground/build/CMakeFiles/CMAKE_PLAYGROUND.dir
-/home/pingvinus/prog/cpp/cmake_playground/build/CMakeFiles/package.dir
-/home/pingvinus/prog/cpp/cmake_playground/build/CMakeFiles/package_source.dir
-/home/pingvinus/prog/cpp/cmake_playground/build/CMakeFiles/edit_cache.dir
-/home/pingvinus/prog/cpp/cmake_playground/build/CMakeFiles/rebuild_cache.dir
